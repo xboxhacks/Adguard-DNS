@@ -1,4 +1,9 @@
-!EPICGAMES
+! STEAM
+!
+||lancache.steamcontent.com^$dnsrewrite=192.168.1.91
+!
+! EPICGAMES
+!
 ||cdn1.epicgames.com^$dnsrewrite=192.168.1.91
 ||cdn.unrealengine.com^$dnsrewrite=192.168.1.91
 ||cdn1.unrealengine.com^$dnsrewrite=192.168.1.91
@@ -10,9 +15,9 @@
 ||download4.epicgames.com^$dnsrewrite=192.168.1.91
 ||epicgames-download1.akamaized.net^$dnsrewrite=192.168.1.91
 ||fastly-download.epicgames.com^$dnsrewrite=192.168.1.91
-! STEAM
-||lancache.steamcontent.com^$dnsrewrite=192.168.1.91
+!
 ! WINDOWS UPDATES
+!
 ||*.windowsupdate.com^$dnsrewrite=192.168.1.91
 ||*.dl.delivery.mp.microsoft.com^$dnsrewrite=192.168.1.91
 ||dl.delivery.mp.microsoft.com^$dnsrewrite=192.168.1.91
@@ -24,3 +29,13 @@
 ||amupdatedl3.microsoft.com^$dnsrewrite=192.168.1.91
 ||amupdatedl4.microsoft.com^$dnsrewrite=192.168.1.91
 ||amupdatedl5.microsoft.com^$dnsrewrite=192.168.1.91
+!
+! XBOX LIVE
+!
+||assets1.xboxlive.com^$dnsrewrite=192.168.1.91
+||assets2.xboxlive.com^$dnsrewrite=192.168.1.91
+||xbox-mbr.xboxlive.com^$dnsrewrite=192.168.1.91
+||assets1.xboxlive.com.nsatc.net^$dnsrewrite=192.168.1.91
+||xvcf1.xboxlive.com^$dnsrewrite=192.168.1.91
+||xvcf2.xboxlive.com^$dnsrewrite=192.168.1.91
+||d1.xboxlive.com^$dnsrewrite=192.168.1.91
