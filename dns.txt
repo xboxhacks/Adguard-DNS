@@ -1,0 +1,26 @@
+!EPICGAMES
+||cdn1.epicgames.com^$dnsrewrite=192.168.1.90
+||cdn.unrealengine.com^$dnsrewrite=192.168.1.90
+||cdn1.unrealengine.com^$dnsrewrite=192.168.1.90
+||cdn2.unrealengine.com^$dnsrewrite=192.168.1.90
+||cdn3.unrealengine.com^$dnsrewrite=192.168.1.90
+||download.epicgames.com^$dnsrewrite=192.168.1.90
+||download2.epicgames.com^$dnsrewrite=192.168.1.90
+||download3.epicgames.com^$dnsrewrite=192.168.1.90
+||download4.epicgames.com^$dnsrewrite=192.168.1.90
+||epicgames-download1.akamaized.net^$dnsrewrite=192.168.1.90
+||fastly-download.epicgames.com^$dnsrewrite=192.168.1.90
+! STEAM
+||lancache.steamcontent.com^$dnsrewrite=192.168.1.90
+! WINDOWS UPDATES
+||*.windowsupdate.com^$dnsrewrite=192.168.1.90
+||*.dl.delivery.mp.microsoft.com^$dnsrewrite=192.168.1.90
+||dl.delivery.mp.microsoft.com^$dnsrewrite=192.168.1.90
+||*.update.microsoft.com^$dnsrewrite=192.168.1.90
+||*.do.dsp.mp.microsoft.com^$dnsrewrite=192.168.1.90
+||*.microsoft.com.edgesuite.net^$dnsrewrite=192.168.1.90
+||amupdatedl.microsoft.com^$dnsrewrite=192.168.1.90
+||amupdatedl2.microsoft.com^$dnsrewrite=192.168.1.90
+||amupdatedl3.microsoft.com^$dnsrewrite=192.168.1.90
+||amupdatedl4.microsoft.com^$dnsrewrite=192.168.1.90
+||amupdatedl5.microsoft.com^$dnsrewrite=192.168.1.90
