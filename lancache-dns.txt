@@ -45,3 +45,7 @@
 ||origin-a.akamaihd.net^$dnsrewrite=192.168.1.91
 ||lvlt.cdn.ea.com^$dnsrewrite=192.168.1.91
 ||cdn-patch.swtor.com^$dnsrewrite=192.168.1.91
+!
+! MY BLOCKS
+!
+||edge.ads.twitch.tv^
