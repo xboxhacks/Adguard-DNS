@@ -49,3 +49,6 @@
 ! MY BLOCKS
 !
 ||edge.ads.twitch.tv^
+!
+!
+! DOMAINS FROM https://github.com/uklans/cache-domains
